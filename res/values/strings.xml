@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dollar Origami Free</string>
+    <string name="menu_settings">Settings</string>
+    <string name="duck1">1. Fold a crease in the center to guide you, then fold the right corners over to the center crease.</string>
+    <string name="duck2">2. Fold the right corners over again to the center.</string>
+    <string name="duck3">3. Flip the bill over.</string>
+    <string name="duck4">4. Fold the right corners down.</string>
+    <string name="duck5">5. Flip the bill over again.</string>
+    <string name="duck6">6. Fold the right side over until the tip touches the middle of the circle.</string>
+    <string name="duck7">7. Fold the tip over around halfway so that the tip is at the right edge.</string>
+    <string name="duck8">8. Fold the bill in half.</string>
+    <string name="duck9">9. Pull the folded tip upward.</string>
+    <string name="duck10">10. Pull the nose outward.</string>
+    <string name="duck11">11. Unfold the center until the duck can stand up.</string>
+    <string name="duck12">12. Congratulations! You have completed your 3-minute dollar origami duck!</string>
+    <string name="butterfly1">1. Fold a crease in the middle to guide you (the green line), then fold the corners diagonally starting at the center (the blue lines).</string>
+    <string name="butterfly2">2. Turn the bill over.</string>
+    <string name="butterfly3">3. Fold the overlapping edges downward.</string>
+    <string name="butterfly4">4. Turn the bill over.</string>
+    <string name="butterfly5">5. Open the main fold to tuck the edge in.</string>
+    <string name="butterfly6">6. Refold the main fold with the edge tucked in, and repeat for the other side.</string>
+    <string name="butterfly7">7. Fold the bill in half along the center line.</string>
+    <string name="butterfly8">8. Fold the center (the green line) forward and the edges (the blue line) back.</string>
+    <string name="butterfly9">9. Congratulations! You have completed your 3-minute dollar origami butterfly!</string>
+    <string name="frog1">1. Fold a crease ending in the top right corner.</string>
+    <string name="frog2">2. Unfold.</string>
+    <string name="frog3">3. Fold a crease ending in the bottom right corner.</string>
+    <string name="frog4">4. Unfold.</string>
+    <string name="frog5">5. Push the middle of the right half inward, touching the red arrows together so that it makes a triangle along the right side.</string>
+    <string name="frog6">6. Fold the left edge over to the edge of the triangle.</string>
+    <string name="frog7">7. Fold the tips of the triangle upward.</string>
+    <string name="frog8">8. Fold the top and bottom edges of the bill inward.</string>
+    <string name="frog9">9. Now for the difficult step: fold the left side over, while at the same time pulling the corners outwardas you pull  to make the edge straight.</string>
+    <string name="frog10">10. Note that the right side remains folded as you fold the left side over.</string>
+    <string name="frog10b">10b. When finished, it should look like this.</string>
+    <string name="frog11">11. Fold the tips on the left side over.</string>
+    <string name="frog12">12. Fold the frog in half.</string>
+    <string name="frog13">13. Fold the top edge back.</string>
+    <string name="frog14">14. Congratulations! You have completed your 3-minute dollar origami frog! Bonus: push on the back end to make him jump!</string>
+        	
+</resources>

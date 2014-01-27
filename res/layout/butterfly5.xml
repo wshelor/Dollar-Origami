@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+        <ImageView android:layout_width="fill_parent"
+                android:layout_height="fill_parent" 
+                android:src="@drawable/butterfly5" 
+                android:layout_weight="1.0"/>
+
+        <TextView android:layout_height="52dip"
+                android:layout_width="fill_parent" 
+                android:layout_marginTop="15dip"
+				android:layout_marginBottom="15dip"
+    			android:layout_marginLeft="15dip"
+				android:layout_marginRight="15dip"
+				android:gravity="center"
+                android:text="@string/butterfly5"/>
+</LinearLayout>
